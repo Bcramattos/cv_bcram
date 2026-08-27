@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+}
+
+.nome {
+    color: blue;
+    text-align: center;
+}
+
+.destaque {
+    color: red;
+}
+.titulo {
+    color: blue;
+}
