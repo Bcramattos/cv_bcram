@@ -6,10 +6,24 @@ body {
     color: blue;
     text-align: center;
 }
+.nome p {
+    text-align: center;
+    color: black;
+}
 
 .destaque {
     color: red;
 }
 .titulo {
+    color: blue;
+}
+.card {
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin: 10px;
+    width: 1000px;
+}
+
+.card h2 {
     color: blue;
 }
